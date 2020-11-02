@@ -14,7 +14,7 @@
 
 ### Run
 ```
-git clone https://github.com/d3fau7t/ShellCrypt.git
+git clone https://github.com/DJ73/ShellCrypt.git
 cd ShellCrypt
 python2 shell.py
 ```
